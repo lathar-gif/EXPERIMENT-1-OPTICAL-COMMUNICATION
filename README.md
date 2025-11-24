@@ -1,4 +1,4 @@
-
+h
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
@@ -53,12 +53,8 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 ## 📊 OBSERVATION AND CALCULATION
 
 - 
-Parameter of given fiber are,
-A = 4.5μm (core radius), N.A = 0.11, λ = 633nm
-V = 2 π x A x N.A / λ = 4.91
-From fig. shows only 4 LP modes propagates.
-Total number of modes = V^2 / 2 = 4.91^2 / 2
+![WhatsApp Image 2025-11-24 at 5 59 33 AM](https://github.com/user-attachments/assets/e6d6147e-17a2-4182-ac1e-aa17a8038edf)
 
----
-## Tabulation
 ## Result
+
+The study successfully achieved the aim by observing the lower-order Linearly Polarized (LP) modes of the fiber. The Single Mode Fiber output was examined, showing the fundamental LP01 mode (a single circular spot) and higher-order LPmodes (patterns with two, three, and four lobes) when the coupling alignment was slightly adjusted.
