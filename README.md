@@ -1,6 +1,7 @@
 
 # Exp 1 Mode Characteristics of Fiber Optic Cable
-
+# Name : Esaki Muthu E
+# Reg:No :212222060055
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
@@ -61,4 +62,7 @@ Total number of modes = V^2 / 2 = 4.91^2 / 2
 
 ---
 ## Tabulation
+.![exp1](https://github.com/user-attachments/assets/0b218bc9-d3e4-4f78-9a59-21839c1252d6)
+
 ## Result
+The mode Characteristics of a optic fiber is found to be 5 modes.
